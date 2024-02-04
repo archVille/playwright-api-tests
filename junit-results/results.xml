@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="3.133964">
+<testsuite name="api.basic.example.spec.ts" timestamp="2024-02-04T19:44:09.897Z" hostname="chromium" tests="3" failures="0" skipped="0" time="1.988" errors="0">
+<testcase name="GET: get inventory" classname="api.basic.example.spec.ts" time="0.734">
+</testcase>
+<testcase name="GET: find by status" classname="api.basic.example.spec.ts" time="0.693">
+</testcase>
+<testcase name="POST order" classname="api.basic.example.spec.ts" time="0.561">
+</testcase>
+</testsuite>
+</testsuites>
